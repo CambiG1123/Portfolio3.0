@@ -1,0 +1,15 @@
+.word-flicker-container {
+    height: 40px; /* Adjust the height based on your design */
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .home-container{
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    width: 40vw;
+    
+  }
